@@ -1,9 +1,9 @@
 # robintptsai / ravenclw_restreamer
 
-## How to install and run Restreamer app on a local environment
+How to install and run Restreamer app on a local environment
 
 
-### Preparation
+## Preparation
 
 1.Environment
 - Mac OS 13.6.7 or newer
@@ -15,7 +15,7 @@
 - Docker: 4.16.2 or higher
 - iTerm (recommend)
 
-### Deploy/Install
+## Deploy/Install
 
 Steps to install app: Restreamer
 
@@ -41,15 +41,16 @@ sudo docker run  --rm --name restreamer \
   datarhei/restreamer:latest
 ```
 
-### Run and Use
+## Run and Use
 
-1.Open http://localhost:8080/ui/ from browser
-2.Create a user account (at the first time login)
-3.Login to Restreamer
-4.Use
+Run app Restreamer
+- Open http://localhost:8080/ui/ from browser
+- Create a user account (at the first time login)
+- Login to Restreamer
+- Use
 
 
-# Reference
+## Reference
 https://docs.datarhei.com/restreamer/getting-started/quick-start
 
 
